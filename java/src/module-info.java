@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author iccho
+ *
+ */
+module java {
+}
